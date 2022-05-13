@@ -1,0 +1,41 @@
+﻿  AST.cpp
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Lexer.h(31,2): warning C4091: 'static ': ignored on left of 'TokenType' when no variable is declared
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\AST.h(84,31): warning C4150: deletion of pointer to incomplete type 'AbstractSyntaxTree::Expression'; no destructor called
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\AST.h(11): message : see declaration of 'AbstractSyntaxTree::Expression'
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\AST.h(271,17): warning C4018: '>=': signed/unsigned mismatch
+  Lexer.cpp
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Lexer.h(31,2): warning C4091: 'static ': ignored on left of 'TokenType' when no variable is declared
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Lexer.cpp(7,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Lexer.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Lexer.cpp(63,28): warning C4101: 'e': unreferenced local variable
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Lexer.cpp(125,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Lexer.cpp(124,20): warning C4101: 'endpindex': unreferenced local variable
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Lexer.cpp(158,14): warning C4018: '<': signed/unsigned mismatch
+  Parser.cpp
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Lexer.h(31,2): warning C4091: 'static ': ignored on left of 'TokenType' when no variable is declared
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\AST.h(84,31): warning C4150: deletion of pointer to incomplete type 'AbstractSyntaxTree::Expression'; no destructor called
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\AST.h(11): message : see declaration of 'AbstractSyntaxTree::Expression'
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\AST.h(271,17): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Parser.h(39,2): warning C4091: 'static ': ignored on left of 'Parser' when no variable is declared
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Parser.cpp(36,40): warning C4101: 'cmd': unreferenced local variable
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Parser.cpp(35,34): warning C4101: 'expression': unreferenced local variable
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Parser.cpp(192,22): warning C4018: '<': signed/unsigned mismatch
+  Transpiler.cpp
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Lexer.h(31,2): warning C4091: 'static ': ignored on left of 'TokenType' when no variable is declared
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\AST.h(84,31): warning C4150: deletion of pointer to incomplete type 'AbstractSyntaxTree::Expression'; no destructor called
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\AST.h(11): message : see declaration of 'AbstractSyntaxTree::Expression'
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\AST.h(271,17): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Parser.h(39,2): warning C4091: 'static ': ignored on left of 'Parser' when no variable is declared
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\ErrorManager.h(37): warning C4091: 'static ': ignored on left of 'ErrorManager::ParserError' when no variable is declared
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Transpiler.cpp(15,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Transpiler.cpp(245,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Transpiler.cpp(278,21): warning C4018: '<': signed/unsigned mismatch
+  Tzefa.cpp
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Lexer.h(31,2): warning C4091: 'static ': ignored on left of 'TokenType' when no variable is declared
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\AST.h(84,31): warning C4150: deletion of pointer to incomplete type 'AbstractSyntaxTree::Expression'; no destructor called
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\AST.h(11): message : see declaration of 'AbstractSyntaxTree::Expression'
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\AST.h(271,17): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\Parser.h(39,2): warning C4091: 'static ': ignored on left of 'Parser' when no variable is declared
+C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Tzefa\ErrorManager.h(37): warning C4091: 'static ': ignored on left of 'ErrorManager::ParserError' when no variable is declared
+  Generating Code...
+  Tzefa.vcxproj -> C:\Users\משתמש\Desktop\מגשימים\שנת פרוייקט\roni-and-naamas-project\Tzefa\Debug\Tzefa.exe
